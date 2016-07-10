@@ -8,8 +8,8 @@ require("teamspeak.class.php"); //Include Teamspeak PHP Class
 $address = 'localhost'; //Teamspeak address
 $qport = 10011 ; //Query port 
 $port = 9987; //Port
-$user = 'serveradmin'; //Query username
-$password = 'Ls6UJsuP'; //Query password
+$user = 'username'; //Query username (normal use: serveradmin)
+$password = 'password'; //Query password
 $name = 'Countbot'; //Bot name
 $cid = 2; //Channel ID that you want.
 $timezone = "Asia/Tehran"; //Timezone (for example: Asia/Tehran)
