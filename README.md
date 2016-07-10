@@ -1,5 +1,6 @@
 # Credits
 RTTB = Remaining time Temaspeak bot
+
 Author: Key1 (Github: @Todliwch)
 
 ## How to start the bot
